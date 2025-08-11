@@ -1,0 +1,6 @@
+boto3
+kaggle
+jupyter
+pandas
+pyarrow
+notebook

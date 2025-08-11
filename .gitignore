@@ -2,7 +2,10 @@ models/
 venv/
 __pycache__/
 .env
+.venv/
 .git
 *.pyc
 *.log
+*.zip
 .DS_Store
+raw/
