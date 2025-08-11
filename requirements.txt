@@ -4,3 +4,6 @@ jupyter
 pandas
 pyarrow
 notebook
+matplotlib
+seaborn
+numpy
