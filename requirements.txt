@@ -1,5 +1,9 @@
 boto3
-kaggle
+awswrangler
+sagemaker
+scikit-learn
+python-dotenv
+typer
 jupyter
 pandas
 pyarrow
